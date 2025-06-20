@@ -9,17 +9,17 @@ Desenvolver, testar e integrar módulos independentes para o controle do robô, 
 ---
 
 ## 📁 Estrutura do Repositório
-├── ponte_H/
-│   └── ponteH_teste.ino 
-├── sensor_TCS34725/      
-│   └── tcs_leitura.ino 
-├── sensor_Ultrassom/    
-│   └── ultrassom_teste.ino 
-├── controle_PID/         
-│   └── pid_basico.ino 
-├── código_final/         
-│   └── resgate_completo.ino 
-└── README.md
+├── ponte_H/   
+│   └── ponteH_teste.ino  
+├── sensor_TCS34725/        
+│   └── tcs_leitura.ino  
+├── sensor_Ultrassom/       
+│   └── ultrassom_teste.ino     
+├── controle_PID/            
+│   └── pid_basico.ino.  
+├── código_final/            
+│   └── resgate_completo.ino.  
+└── README.md.     
 
 ## 🛠️ Tecnologias Utilizadas
 
