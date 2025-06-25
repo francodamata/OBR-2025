@@ -10,7 +10,7 @@ Desenvolver, testar e integrar módulos independentes para o controle do robô, 
 
 ## 📁 Estrutura do Repositório
 ├── ponte_H/   
-│   └── ponteH_teste.ino  
+│   └── TestePonteH.ino 
 ├── sensor_TCS34725/        
 │   └── tcs_leitura.ino  
 ├── sensor_Ultrassom/       
