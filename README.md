@@ -59,7 +59,8 @@ Desenvolver, testar e integrar módulos independentes para o controle do robô, 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Franco da Mata**  
+Desenvolvido pela equipe **The Fusions**  
+Programação comandada por **Franco da Mata**
 Estudante | Competidor OBR | Entusiasta em robótica e programação  
 📍 IFBA - Campus Salvador
 
