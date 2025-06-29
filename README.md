@@ -12,7 +12,7 @@ Desenvolver, testar e integrar módulos independentes para o controle do robô, 
 ├── ponte_H/   
 │   └── TestePonteH.ino 
 ├── sensor_TCS34725/        
-│   └── tcs_leitura.ino  
+│   └── tcs_leitura.ino    
 ├── sensor_Ultrassom/       
 │   └── ultrassom_teste.ino     
 ├── controle_PID/            
