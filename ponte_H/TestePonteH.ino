@@ -1,4 +1,4 @@
-//Definição dos pinos do motor
+
 #define IN1 10
 #define IN2 9
 #define IN3 6
