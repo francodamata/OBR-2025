@@ -12,7 +12,6 @@ Este projeto demonstra como utilizar **dois sensores de cor TCS34725** simultane
 | 2          | Sensor de cor TCS34725       |
 | 1          | Multiplexador I²C TCA9548A   |
 | 1          | Protoboard                   |
-| Vários     | Jumpers macho-macho          |
 
 ---
 
