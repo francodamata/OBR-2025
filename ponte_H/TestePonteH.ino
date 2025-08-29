@@ -1,7 +1,7 @@
 
-#define IN1 10
-#define IN2 9
-#define IN3 6
+#define IN1 2
+#define IN2 3
+#define IN3 4
 #define IN4 5
 
 void setup() {
