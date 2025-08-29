@@ -18,8 +18,6 @@ O robô tem como objetivo:
 - **2x Motores DC** (direito e esquerdo)  
 - **2x Ponte H L298N ou L293D**  
 - **5x Sensores LDR** dispostos da esquerda para a direita  
-- **Resistores para divisor de tensão dos LDRs**  
-- **Bateria compatível (7.4V LiPo ou 9V)**  
 
 ### Esquema dos LDRs
 Os sensores foram organizados da **esquerda para a direita**:
